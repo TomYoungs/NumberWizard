@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Projects Intellij/NumberWizard/NumberWizard.iml" filepath="$PROJECT_DIR$/Projects Intellij/NumberWizard/NumberWizard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects Intellij/ReminderWeek1FoPL/ReminderWeek1FoPL.iml" filepath="$PROJECT_DIR$/Projects Intellij/ReminderWeek1FoPL/ReminderWeek1FoPL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects Intellij/week1FoPL/week1FoPL.iml" filepath="$PROJECT_DIR$/Projects Intellij/week1FoPL/week1FoPL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects Intellij/week1FoPLTutorial/week1FoPLTutorial.iml" filepath="$PROJECT_DIR$/Projects Intellij/week1FoPLTutorial/week1FoPLTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects Intellij/week2ADS2/week2ADS2.iml" filepath="$PROJECT_DIR$/Projects Intellij/week2ADS2/week2ADS2.iml" />
+    </modules>
+  </component>
+</project>

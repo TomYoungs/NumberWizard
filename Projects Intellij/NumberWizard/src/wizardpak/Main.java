@@ -3,8 +3,9 @@ package wizardpak;
 import java.util.Scanner;
 
 public class Main {
-    static int calculation(int lRange, int hRange){
-        int guess = (hRange + lRange)/2;
+    static int calculation(float lRange, float hRange){
+        float calc = (hRange + lRange)/2;
+        int guess = (int)calc;
         return guess;
     }
     public static void main(String[] args) {
@@ -26,11 +27,14 @@ public class Main {
             else if (userGuess.contains("m")){
                 lRange = guess;
                 guess = calculation(lRange, hRange);
-                System.out.println(guess);
             }
             else if (userGuess.contains("yes")){
                 System.out.println("yay!");
                 incorrect = false;
+            }
+            if(lRange == hRange ){
+                System.out.println("lies...");
+                incorrect=false;
             }
         }
 
